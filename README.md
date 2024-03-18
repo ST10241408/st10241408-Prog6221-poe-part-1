@@ -9,7 +9,7 @@ To run the Recipe Application, follow these steps:
 
 1. Clone or download the repository:
    ```
-   git clone https://github.com/your-username/recipe-application.git
+   https://github.com/ST10241408/st10241408-Prog6221-poe-part-1
    ```
 
 2. Open the project in your preferred C# development environment, such as Visual Studio.
